@@ -1,24 +1,19 @@
-# letswrite-storybook-init
+# 用 StoryBook 做一個 UI 整理集
 
-## Project setup
+---
+
+下載完後，先執行：
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+再執行：
 ```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
+npm run storybook
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
+就可以看到頁面。
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+---
+
+本篇筆記文：[用 StoryBook 做一個 UI 整理集](https://letswrite.tw/storybook-init/)
