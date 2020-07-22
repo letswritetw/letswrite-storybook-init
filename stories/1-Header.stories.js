@@ -4,7 +4,7 @@ import { linkTo } from '@storybook/addon-links';
 import HeaderSample from './../components/Header/sample.vue';
 
 export default {
-  title: 'Header',
+  title: 'Public | 天地/Header',
   component: HeaderSample,
 };
 

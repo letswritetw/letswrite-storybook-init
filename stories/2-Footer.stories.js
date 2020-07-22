@@ -4,7 +4,7 @@ import { linkTo } from '@storybook/addon-links';
 import FooterSample from './../components/Footer/sample.vue';
 
 export default {
-  title: 'Footer',
+  title: 'Public | 天地/Footer',
   component: FooterSample,
 };
 
