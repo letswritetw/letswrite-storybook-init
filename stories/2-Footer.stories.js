@@ -5,7 +5,6 @@ import FooterSample from './../components/Footer/sample.vue';
 
 export default {
   title: 'Public | 天地/Footer',
-  component: FooterSample,
 };
 
 export const 範例_footer = () => ({
