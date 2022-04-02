@@ -16,4 +16,4 @@ npm run storybook
 
 ---
 
-本篇筆記文：[用 StoryBook 做一個 UI 整理集](https://letswrite.tw/storybook-init/)
+本篇筆記文：[用 StoryBook 做一個 UI 整理集](https://www.letswrite.tw/storybook-init/)
